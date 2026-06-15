@@ -1,3 +1,26 @@
 body{
     background-color: pink;
 }
+img{
+    width: 200pt;
+    height: 200pt;
+}
+button{
+    width: 100px;
+    height: 20px;
+}
+.formulario{
+    text-align: center;
+}
+.oe{
+    width: 200px;
+    height: 20px;
+    background-color: pink(252, 217, 255);
+}
+.oi{
+    background-color: green(255,65,255);
+}
+input, button{
+    margin-left: 50px;
+    margin-bottom: 5px;
+}
